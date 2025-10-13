@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "c8fe8170-7df9-4742-90c4-07f87f41e65a",
+		"name": "SOAP collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15699610"
+	},
+	"item": [
+		{
+			"name": "https://www.swi-prolog.org/pack/file_details/wsdl/examples/country.wsdl",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.swi-prolog.org/pack/file_details/wsdl/examples/country.wsdl",
+					"protocol": "https",
+					"host": [
+						"www",
+						"swi-prolog",
+						"org"
+					],
+					"path": [
+						"pack",
+						"file_details",
+						"wsdl",
+						"examples",
+						"country.wsdl"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
