@@ -1,0 +1,8 @@
+The Restful Booker API is a hotel reservation system that allows users to intract with Diffrent EntPoints to Retrive,update & delete bookings.
+The Project will include a wide range of test scenerios, including Postive & negative test cases, To cover All aspects of Restful Booker API
+
+Objective 
+The objective of this test plan is to basically verify the RESTful Booker API, where we have created booking, updated booking, 
+delete booking with authentication, add authentication token. It basically contains a lot of bugs also. We need to find all those bugs. 
+That's the overall objective. We are going to put them all into a Postman for test case execution. And in the end, 
+we need automation also for the same by using REST assured framework.
